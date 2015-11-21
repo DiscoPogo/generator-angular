@@ -14,7 +14,7 @@ For step-by-step instructions on using Yeoman and this generator to build a TODO
 
 Install `yo`, `grunt-cli`, `bower`, `generator-angular` and `generator-karma`:
 ```
-npm install -g grunt-cli bower yo https://github.com/DiscoPogo/generator-karma/tarball/dp https://github.com/DiscoPogo/generator-angular/tarball/dp
+npm install -g grunt-cli bower https://github.com/DiscoPogo/yo/tarball/dp https://github.com/DiscoPogo/generator-karma/tarball/dp https://github.com/DiscoPogo/generator-angular/tarball/dp
 ```
 
 Make a new directory, and `cd` into it:
