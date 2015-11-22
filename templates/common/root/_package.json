@@ -30,6 +30,12 @@
     "gulp-coffee": "^2.3.1",<% } %><% } else { %>
     "autoprefixer-core": "^5.2.1",
     "grunt": "^0.4.5",
+    "grunt-karma": "^0.12.1",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "jasmine-core": "^2.3.4",
+    "phantomjs": "^1.9.18",
+    "karma": "^0.13.15",
     "grunt-angular-templates": "^0.5.7",
     "grunt-concurrent": "^1.0.0",
     "grunt-contrib-clean": "^0.6.0",<% if (coffee) { %>
